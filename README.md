@@ -1,7 +1,7 @@
 - 👋 Hi, I’m an aspring developer
 - 👀 I’m interested in anything tech
 - 🌱 I’m currently learning data analytics, machine learning with python, google and aws
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any analytics tasks
 - 📫 How to reach me ...
 
 <!---
