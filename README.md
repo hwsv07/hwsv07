@@ -1,3 +1,6 @@
+# README.md 
+## About Me (Repository named "hwsv07" ㊗️)
+
 - 👋 Hi, I’m an aspring developer
 - 👀 I’m interested in anything tech
 - 🌱 I’m currently learning data analytics, machine learning with python, google and aws
